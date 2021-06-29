@@ -31,6 +31,10 @@ function go {
     cd /Users/rdennis/swing/taco/packages/surveyBay
     ;;
 
+  saur | surveysaurus)
+    cd /Users/rdennis/swing/surveysaurus
+    ;;
+
   se | sessions)
     cd /Users/rdennis/swing/taco/packages/sessions
     ;;
